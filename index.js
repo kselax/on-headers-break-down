@@ -9,7 +9,7 @@
 /**
  * Reference to Array slice.
  */
-
+// unknown variable
 var slice = Array.prototype.slice
 
 /**
