@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # on-headers
 
 [![NPM Version][npm-image]][npm-url]
@@ -74,3 +75,7 @@ $ npm test
 [coveralls-url]: https://coveralls.io/r/jshttp/on-headers?branch=master
 [downloads-image]: https://img.shields.io/npm/dm/on-headers.svg
 [downloads-url]: https://npmjs.org/package/on-headers
+=======
+# on-headers-break-down
+commented code of npm module on-headers
+>>>>>>> c3d9c570b693c52fa357a26bad02159d58777a76
